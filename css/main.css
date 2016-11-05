@@ -1,0 +1,33 @@
+body{
+	color:#fff;
+	opacity: 0.8;
+	background: url(http://neutronico.com/img/upload/1346251143-monedas.jpg) repeat;
+	background-attachment: fixed;
+}
+header{
+	background-color:rgba(31,31,31,.95);
+	margin-bottom: 15px;
+}
+h1{
+	padding: 0.8em 0;
+}
+.panel{
+	border: solid 1px #ccc;
+	box-shadow: 1px 1px 1px #ccc;
+	background-color: #233330;
+	border-radius: 8px;
+}
+.cabecera{
+	border-bottom: solid 1px #fff;
+	color: #FFD700;
+}
+.contenido{
+	text-align: center;
+}
+
+.compra{
+	color: #00FFFF;
+}
+.venta{
+	color: #FF6347;
+}
