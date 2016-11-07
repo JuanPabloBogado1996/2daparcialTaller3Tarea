@@ -2,8 +2,8 @@
     {
         "moneda": "Dolar",
         "simbolo": "USS",
-        "compra": "4320",
-        "venta": "4480"   
+        "compra": "5670",
+        "venta": "5690"   
     },
      {
         "moneda": "Real",
@@ -15,8 +15,8 @@
      {
         "moneda": "Euro",
         "simbolo": "EUR",
-        "compra": "6000",
-        "venta": "6200"   
+        "compra": "6100",
+        "venta": "6350"   
     }
     ,
      {
